@@ -5,3 +5,4 @@ cryptography
 streamlit
 snowflake-snowpark-python
 requests
+pandas
