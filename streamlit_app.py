@@ -7,7 +7,6 @@ st.title(":cup_with_straw: Customize Your Smoothie!:cup_with_straw:")
 st.write(
     f""" Choose the fruits you want in a custom smoothie!
 """)
-import streamlit as st
 
 name_on_order = st.text_input("Name on Smoothie:")
 st.write("The name on you Smoothie:", name_on_order)
