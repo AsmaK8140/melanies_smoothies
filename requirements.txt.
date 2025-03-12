@@ -1,7 +1,6 @@
 #requirements.txt
 snowflake-connector-python
 streamlit
-snowflake-snowpark-python
 
 
 
